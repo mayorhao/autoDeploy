@@ -68,7 +68,6 @@ class Build extends Events {
     }
 
     start() {
-        debugger;
         $.ajax({
             type: "post",
             url: this.urls.start,
