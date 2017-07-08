@@ -16,5 +16,5 @@ http://jira.sohuno.com/browse/ADD-4886?jql=project%20%3D%20%22ADD%22%20AND%20res
 ## jira项目
 http://jira.sohuno.com/browse/MPMFE-733
 ## 主机地址
-10.16.58.120
+http://10.11.174.20:9000/
 1. 自动部署服务
