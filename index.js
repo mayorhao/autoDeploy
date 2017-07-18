@@ -12,7 +12,7 @@ const config = {
     "v3": {
         fe: {
             id: 220,
-            branch: "v3.1"
+            branch: "v3.1-develop"
         },
         backEnd: {
             id: 439,
