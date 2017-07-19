@@ -16,7 +16,7 @@ const config = {
         },
         backEnd: {
             id: 439,
-            branch: "test"
+            branch: "master"
         }
     }
 }
